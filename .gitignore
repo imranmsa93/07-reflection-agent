@@ -1,0 +1,112 @@
+# ----------------------
+
+# Python
+
+# ----------------------
+
+**pycache**/
+*.py[cod]
+*$py.class
+*.so
+
+# ----------------------
+
+# Virtual Environment
+
+# ----------------------
+
+venv/
+venv1/
+.env/
+.env
+.venv/
+
+# ----------------------
+
+# Environment Variables
+
+# ----------------------
+
+.env.local
+.env.*.local
+
+# ----------------------
+
+# macOS
+
+# ----------------------
+
+.DS_Store
+
+# ----------------------
+
+# VSCode
+
+# ----------------------
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+
+# ----------------------
+
+# PyCharm / IntelliJ
+
+# ----------------------
+
+.idea/
+
+# ----------------------
+
+# Logs
+
+# ----------------------
+
+*.log
+
+# ----------------------
+
+# Cache / Testing
+
+# ----------------------
+
+.cache/
+pytest_cache/
+.tox/
+.nox/
+.coverage
+
+# ----------------------
+
+# Jupyter
+
+# ----------------------
+
+.ipynb_checkpoints
+
+# ----------------------
+
+# Pyenv
+
+# ----------------------
+
+.python-version
+
+# ----------------------
+
+# Database / Temp
+
+# ----------------------
+
+*.sqlite3
+*.db
+
+# ----------------------
+
+# Node (optional)
+
+# ----------------------
+
+node_modules/
+.env
